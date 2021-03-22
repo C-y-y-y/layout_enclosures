@@ -1,0 +1,28 @@
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.blue {
+  border: 1px solid #e95d49;
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 20px 40px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.yellow {
+  background-color: #ffa500;
+  padding: 10px;
+  border: 1px solid #e95d49;
+  box-sizing: border-box;
+}
+
+.text {
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #e95d49;
+  background-color: #ddd;
+}
